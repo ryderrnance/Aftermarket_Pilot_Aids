@@ -1,0 +1,118 @@
+2020/10/21 17:17:12 signal caught: SIGHUP, handled.
+2020/10/21 17:17:12 AHRS Info: IMU Calibrations read from settings: accel 0.041263 0.048773 -1.015683; gyro -1.326792 0.636311 0.508133
+2020/10/21 17:17:13 AHRS Info: IMU Calibrations read from settings: accel 0.041263 0.048773 -1.015683; gyro -1.326792 0.636311 0.508133
+2020/10/21 17:10:14  - stratux-wifi.sh - Restarting DHCP services
+2020/10/21 17:17:14 AHRS Info: IMU Calibrations read from settings: accel 0.041263 0.048773 -1.015683; gyro -1.326792 0.636311 0.508133
+2020/10/21 17:17:15 AHRS Info: IMU Calibrations read from settings: accel 0.041263 0.048773 -1.015683; gyro -1.326792 0.636311 0.508133
+2020/10/21 17:17:15 GPS error. Invalid NMEA string: Invalid NMEA message
+2020/10/21 17:17:15 GPS detected: u-blox NMEA position message seen.
+2020/10/21 17:17:15 MPU9250 mag data overflow
+2020/10/21 17:17:15 MPU9250 m4 MSB: 1
+2020/10/21 17:17:16 AHRS Info: IMU Calibrations read from settings: accel 0.041263 0.048773 -1.015683; gyro -1.326792 0.636311 0.508133
+2020/10/21 17:17:18 setting system time to: '20201102 04:43:21.400 UTC'
+2020/11/02 04:43:21 Time set from GPS. Current time is 2020-11-02 04:43:21.402504322 +0000 UTC
+2020/11/02 04:43:44 stats [started: 30 seconds ago]
+2020/11/02 04:43:44  - Disk bytes used = 1.5 GB (80.0 %), Disk bytes free = 372 MB (20.0 %)
+2020/11/02 04:43:44  - CPUTemp=32.71 [30.56 - 32.71] deg C, MemStats.Alloc=2.2 MB, MemStats.Sys=7.7 MB, totalNetworkMessagesSent=15
+2020/11/02 04:43:44  - UAT/min 0/0 [maxSS=0.00%], ES/min 0/0, Total traffic targets tracked=0
+2020/11/02 04:43:44  - Network data messages sent: 0 total, 0 nonqueueable.  Network data bytes sent: 0 total, 0 nonqueueable.
+2020/11/02 04:43:44  - Last GPS fix: 30 seconds ago, GPS solution type: 0 using 0 satellites (3/3 seen/tracked), NACp: 0, est accuracy 999999.00 m
+2020/11/02 04:43:44  - GPS vertical velocity: 0.00 ft/sec; GPS vertical accuracy: 999999 m
+2020/11/02 04:43:44 - Last IMU read: 1 second ago, Last BMP read: 1 second ago
+2020/11/02 04:44:14 stats [started: 59 seconds ago]
+2020/11/02 04:44:14  - Disk bytes used = 1.5 GB (80.0 %), Disk bytes free = 372 MB (20.0 %)
+2020/11/02 04:44:14  - CPUTemp=34.32 [30.56 - 34.32] deg C, MemStats.Alloc=1.1 MB, MemStats.Sys=8.8 MB, totalNetworkMessagesSent=33
+2020/11/02 04:44:14  - UAT/min 0/0 [maxSS=0.00%], ES/min 0/0, Total traffic targets tracked=0
+2020/11/02 04:44:14  - Network data messages sent: 0 total, 0 nonqueueable.  Network data bytes sent: 0 total, 0 nonqueueable.
+2020/11/02 04:44:14  - Last GPS fix: 59 seconds ago, GPS solution type: 0 using 0 satellites (3/3 seen/tracked), NACp: 0, est accuracy 999999.00 m
+2020/11/02 04:44:14  - GPS vertical velocity: 0.00 ft/sec; GPS vertical accuracy: 999999 m
+2020/11/02 04:44:14 - Last IMU read: now, Last BMP read: now
+2020/11/02 04:44:44 stats [started: 1 minute ago]
+2020/11/02 04:44:44  - Disk bytes used = 1.5 GB (80.0 %), Disk bytes free = 372 MB (20.0 %)
+2020/11/02 04:44:44  - CPUTemp=35.40 [30.56 - 35.94] deg C, MemStats.Alloc=3.4 MB, MemStats.Sys=8.8 MB, totalNetworkMessagesSent=51
+2020/11/02 04:44:44  - UAT/min 0/0 [maxSS=0.00%], ES/min 0/0, Total traffic targets tracked=0
+2020/11/02 04:44:44  - Network data messages sent: 0 total, 0 nonqueueable.  Network data bytes sent: 0 total, 0 nonqueueable.
+2020/11/02 04:44:44  - Last GPS fix: 1 minute ago, GPS solution type: 0 using 0 satellites (3/3 seen/tracked), NACp: 0, est accuracy 999999.00 m
+2020/11/02 04:44:44  - GPS vertical velocity: 0.00 ft/sec; GPS vertical accuracy: 999999 m
+2020/11/02 04:44:44 - Last IMU read: now, Last BMP read: now
+2020/11/02 04:44:45 ===== UAT Device Name  : Generic RTL2832U OEM =====
+2020/11/02 04:44:45 ===== UAT Device Serial: stratux:978=====
+2020/11/02 04:44:45 	GetTunerType: RTLSDR_TUNER_R820T
+2020/11/02 04:44:45 	SetTunerGainMode Successful
+2020/11/02 04:44:45 	SetTunerGain Successful
+2020/11/02 04:44:45 	GetTunerGain: 480
+2020/11/02 04:44:45 	SetSampleRate - rate: 2083334
+2020/11/02 04:44:45 	GetSampleRate: 2083334
+2020/11/02 04:44:45 	GetXtalFreq - Rtl: 28800000, Tuner: 28800000
+2020/11/02 04:44:45 	SetXtalFreq - Center freq: 28800000, Tuner freq: 28800000
+2020/11/02 04:44:45 	SetCenterFreq 978MHz Successful
+2020/11/02 04:44:45 	GetCenterFreq: 978000000
+2020/11/02 04:44:45 	Setting Bandwidth: 1000000
+2020/11/02 04:44:45 	SetTunerBw 1000000 Successful
+2020/11/02 04:44:45 	ResetBuffer Successful
+2020/11/02 04:44:45 	GetFreqCorrection: 0
+2020/11/02 04:44:45 	SetFreqCorrection 0 Successful
+2020/11/02 04:44:45 Entered UAT read() ...
+2020/11/02 04:44:45 ===== ES Device Serial: stratux:1090 PPM 0 =====
+2020/11/02 04:44:45 Entered ES read() ...
+2020/11/02 04:44:45 Executed /usr/bin/dump1090 successfully...
+2020/11/02 04:45:14 stats [started: 1 minute ago]
+2020/11/02 04:45:14  - Disk bytes used = 1.5 GB (80.0 %), Disk bytes free = 372 MB (20.0 %)
+2020/11/02 04:45:14  - CPUTemp=37.55 [30.56 - 37.55] deg C, MemStats.Alloc=2.5 MB, MemStats.Sys=8.8 MB, totalNetworkMessagesSent=69
+2020/11/02 04:45:14  - UAT/min 0/0 [maxSS=0.00%], ES/min 0/0, Total traffic targets tracked=0
+2020/11/02 04:45:14  - Network data messages sent: 0 total, 0 nonqueueable.  Network data bytes sent: 0 total, 0 nonqueueable.
+2020/11/02 04:45:14  - Last GPS fix: 1 minute ago, GPS solution type: 0 using 0 satellites (4/4 seen/tracked), NACp: 0, est accuracy 999999.00 m
+2020/11/02 04:45:14  - GPS vertical velocity: 0.00 ft/sec; GPS vertical accuracy: 999999 m
+2020/11/02 04:45:14 - Last IMU read: now, Last BMP read: now
+2020/11/02 04:45:44 stats [started: 2 minutes ago]
+2020/11/02 04:45:44  - Disk bytes used = 1.5 GB (80.0 %), Disk bytes free = 372 MB (20.0 %)
+2020/11/02 04:45:44  - CPUTemp=39.17 [30.56 - 39.17] deg C, MemStats.Alloc=2.2 MB, MemStats.Sys=8.8 MB, totalNetworkMessagesSent=87
+2020/11/02 04:45:44  - UAT/min 0/0 [maxSS=0.00%], ES/min 5/5, Total traffic targets tracked=1
+2020/11/02 04:45:44  - Network data messages sent: 0 total, 0 nonqueueable.  Network data bytes sent: 0 total, 0 nonqueueable.
+2020/11/02 04:45:44  - Last GPS fix: 2 minutes ago, GPS solution type: 0 using 0 satellites (4/4 seen/tracked), NACp: 0, est accuracy 999999.00 m
+2020/11/02 04:45:44  - GPS vertical velocity: 0.00 ft/sec; GPS vertical accuracy: 999999 m
+2020/11/02 04:45:44 - Last IMU read: now, Last BMP read: now
+2020/11/02 04:46:14 stats [started: 2 minutes ago]
+2020/11/02 04:46:14  - Disk bytes used = 1.5 GB (80.0 %), Disk bytes free = 372 MB (20.0 %)
+2020/11/02 04:46:14  - CPUTemp=40.78 [30.56 - 40.78] deg C, MemStats.Alloc=1.9 MB, MemStats.Sys=8.8 MB, totalNetworkMessagesSent=105
+2020/11/02 04:46:14  - UAT/min 0/0 [maxSS=0.00%], ES/min 12/12, Total traffic targets tracked=2
+2020/11/02 04:46:14  - Network data messages sent: 0 total, 0 nonqueueable.  Network data bytes sent: 0 total, 0 nonqueueable.
+2020/11/02 04:46:14  - Last GPS fix: 2 minutes ago, GPS solution type: 0 using 0 satellites (5/5 seen/tracked), NACp: 0, est accuracy 999999.00 m
+2020/11/02 04:46:14  - GPS vertical velocity: 0.00 ft/sec; GPS vertical accuracy: 999999 m
+2020/11/02 04:46:14 - Last IMU read: now, Last BMP read: now
+2020/11/02 04:46:44 stats [started: 3 minutes ago]
+2020/11/02 04:46:44  - Disk bytes used = 1.5 GB (80.0 %), Disk bytes free = 372 MB (20.0 %)
+2020/11/02 04:46:44  - CPUTemp=40.78 [30.56 - 40.78] deg C, MemStats.Alloc=1.6 MB, MemStats.Sys=8.8 MB, totalNetworkMessagesSent=123
+2020/11/02 04:46:44  - UAT/min 0/0 [maxSS=0.00%], ES/min 9/12, Total traffic targets tracked=2
+2020/11/02 04:46:44  - Network data messages sent: 0 total, 0 nonqueueable.  Network data bytes sent: 0 total, 0 nonqueueable.
+2020/11/02 04:46:44  - Last GPS fix: 3 minutes ago, GPS solution type: 0 using 0 satellites (3/3 seen/tracked), NACp: 0, est accuracy 999999.00 m
+2020/11/02 04:46:44  - GPS vertical velocity: 0.00 ft/sec; GPS vertical accuracy: 999999 m
+2020/11/02 04:46:44 - Last IMU read: now, Last BMP read: now
+2020/11/02 04:47:14 stats [started: 3 minutes ago]
+2020/11/02 04:47:14  - Disk bytes used = 1.5 GB (80.0 %), Disk bytes free = 372 MB (20.0 %)
+2020/11/02 04:47:14  - CPUTemp=41.86 [30.56 - 41.86] deg C, MemStats.Alloc=1.4 MB, MemStats.Sys=8.8 MB, totalNetworkMessagesSent=141
+2020/11/02 04:47:14  - UAT/min 0/0 [maxSS=0.00%], ES/min 21/21, Total traffic targets tracked=2
+2020/11/02 04:47:14  - Network data messages sent: 0 total, 0 nonqueueable.  Network data bytes sent: 0 total, 0 nonqueueable.
+2020/11/02 04:47:14  - Last GPS fix: 3 minutes ago, GPS solution type: 0 using 0 satellites (4/4 seen/tracked), NACp: 0, est accuracy 999999.00 m
+2020/11/02 04:47:14  - GPS vertical velocity: 0.00 ft/sec; GPS vertical accuracy: 999999 m
+2020/11/02 04:47:14 - Last IMU read: now, Last BMP read: now
+2020/11/02 04:47:44 stats [started: 4 minutes ago]
+2020/11/02 04:47:44  - Disk bytes used = 1.5 GB (80.0 %), Disk bytes free = 372 MB (20.0 %)
+2020/11/02 04:47:44  - CPUTemp=42.93 [30.56 - 42.93] deg C, MemStats.Alloc=3.0 MB, MemStats.Sys=8.8 MB, totalNetworkMessagesSent=159
+2020/11/02 04:47:44  - UAT/min 0/0 [maxSS=0.00%], ES/min 246/246, Total traffic targets tracked=2
+2020/11/02 04:47:44  - Network data messages sent: 0 total, 0 nonqueueable.  Network data bytes sent: 0 total, 0 nonqueueable.
+2020/11/02 04:47:44  - Last GPS fix: 4 minutes ago, GPS solution type: 0 using 0 satellites (6/6 seen/tracked), NACp: 0, est accuracy 999999.00 m
+2020/11/02 04:47:44  - GPS vertical velocity: 0.00 ft/sec; GPS vertical accuracy: 999999 m
+2020/11/02 04:47:44 - Last IMU read: now, Last BMP read: now
+2020/11/02 04:47:45 handleDevelModeToggle called!!!
+2020/11/02 04:47:45 wrote settings.
+2020/11/02 04:48:00 wrote settings.
+2020/11/02 04:48:03 AHRS Gyro/Accel Error: MPU9250 Error: No new accel/gyro values
+2020/11/02 04:48:14 stats [started: 4 minutes ago]
+2020/11/02 04:48:14  - Disk bytes used = 1.5 GB (80.0 %), Disk bytes free = 372 MB (20.0 %)
+2020/11/02 04:48:14  - CPUTemp=42.93 [30.56 - 42.93] deg C, MemStats.Alloc=2.8 MB, MemStats.Sys=8.8 MB, totalNetworkMessagesSent=177
+2020/11/02 04:48:14  - UAT/min 0/0 [maxSS=0.00%], ES/min 437/437, Total traffic targets tracked=2
+2020/11/02 04:48:14  - Network data messages sent: 0 total, 0 nonqueueable.  Network data bytes sent: 0 total, 0 nonqueueable.
+2020/11/02 04:48:14  - Last GPS fix: now, GPS solution type: 1 using 4 satellites (6/7 seen/tracked), NACp: 8, est accuracy 32.00 m
+2020/11/02 04:48:14  - GPS vertical velocity: 0.40 ft/sec; GPS vertical accuracy: 64 m
+2020/11/02 04:48:14 - Last IMU read: now, Last BMP read: now
